@@ -1,4 +1,7 @@
 # Password Cracker — Ex02 Project
+
+Rani Maman רני ממן Yarden Zur ירדן צור
+
 1️⃣ Open terminal in the project folder  
 2️⃣ Run: make  
     
